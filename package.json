@@ -1,0 +1,32 @@
+{
+  "name": "mongomanagement",
+  "version": "1.0.3",
+  "description": "mongodb mongoose management for crud ;; controll who can CRUD which field",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breathfunwithmindte/mongomanagement.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "scopes",
+    "oauth",
+    "managements",
+    "roles",
+    "control",
+    "database"
+  ],
+  "devDependencies": {
+    "mongoose": "^6.8.1"
+  },
+  "author": "Mike Karypidis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/breathfunwithmindte/mongomanagement/issues"
+  },
+  "homepage": "https://github.com/breathfunwithmindte/mongomanagement#readme"
+}
